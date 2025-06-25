@@ -6,13 +6,11 @@ A simple student record management system developed for managing student data ef
 
 - Add, update, delete student records
 - Store student details such as name, roll number, department, and marks
-- Basic file-based storage (or database, if implemented)
-- CLI or GUI based interface (based on your implementation)
 
-## Tech Stack
+  ## Tech Stack
 
-- Programming Language: Java / Python / C++ (specify what you use)
-- IDE: VS Code / IntelliJ / others
+- Programming Language: Java 
+- IDE: VS Code 
 - Version Control: Git & GitHub
 
 ## Getting Started
